@@ -1,0 +1,7 @@
+# auto install dependencies in production
+node_modules
+# environment setup will done by hosting provider for production
+#.env
+# dump files
+dump
+dump/*
